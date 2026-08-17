@@ -1,0 +1,36 @@
+{
+   "expo": {
+      "name": "frontend",
+      "slug": "frontend",
+      "version": "1.0.0",
+      "orientation": "portrait",
+      "icon": "./assets/images/icon.png",
+      "scheme": "frontend",
+      "userInterfaceStyle": "automatic",
+      "newArchEnabled": true,
+      "splash": {
+         "image": "./assets/images/requestai_logo.png",
+         "resizeMode": "contain",
+         "backgroundColor": "#ffffff"
+      },
+      "ios": {
+         "supportsTablet": true
+      },
+      "android": {
+         "adaptiveIcon": {
+            "foregroundImage": "./assets/images/requestai_logo.png",
+            "backgroundColor": "#ffffff"
+         },
+         "edgeToEdgeEnabled": true
+      },
+      "web": {
+         "bundler": "metro",
+         "output": "static",
+         "favicon": "./assets/images/requestai_logo.png"
+      },
+      "plugins": ["expo-router"],
+      "experiments": {
+         "typedRoutes": true
+      }
+   }
+}
