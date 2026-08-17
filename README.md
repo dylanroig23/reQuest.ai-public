@@ -3,7 +3,7 @@
 
 # reQuest.ai
 
-An AI-powered gaming assistant that helps Steam users get intelligent, context-aware answers about their game library. [Application Images](https://github.com/dylanroig23/reQuest.ai/tree/main/images)
+An AI-powered gaming assistant that helps Steam users get intelligent, context-aware answers about their game library. [Application Images](https://github.com/dylanroig23/reQuest.ai-public/tree/main/images)
 
 ## 🎮 Overview
 
